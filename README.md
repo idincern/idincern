@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Dincer</h1>
 <h3 align="center">C# developer & Robotics Hobbyist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idincern&label=Profile%20views&color=0e75b6&style=flat" alt="idincern" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idincern" alt="idincern" /></a> </p>
-
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)**
 
 - 💬 Ask me about **Programming, ROS, Mechatronics**
 
