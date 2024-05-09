@@ -1,4 +1,4 @@
-<h1 align="center">IDincerN</h1>
+<h1 align="center">Welcome to IDincerN's GitHub Page</h1>
 <h3 align="center">C# developer & Robotics Hobbyist</h3>
 
 - 🌱 **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** developer 🌱
