@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my GitHub Page</h1>
 <h3 align="center">C# developer & Robotics Hobbyist</h3>
 
-- 🌱 **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** developer 🌱
+- 🌱 **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** Backend developer 🌱
 
-- 💬 You can ask me about **Programming, ROS, Mechatronics** 💬
+- 💬 You can ask me about **C#, Programming, Robots, ROS and Mechatronics** 💬
 
 - 📫 You can reach me from **idincern@gmail.com** or **[Linkedin](https://www.linkedin.com/in/ibrahim-din%C3%A7er-nalbant-1753a5b9/)** 📫
 
