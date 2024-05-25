@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to my GitHub Page</h1>
+<h1 align="center">Welcome to IDINCERN's GitHub Page</h1>
 <h3 align="center">C# developer & Robotics Hobbyist</h3>
 
-- 🌱 **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** Backend developer (to be)😊
+- 🌱 **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** Backend developer 🦖
 
 - 💬 You can ask me about **C#, Programming, Robots, ROS and Mechatronics** 💬
 
