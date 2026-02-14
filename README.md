@@ -31,17 +31,5 @@
 
   <br><br>
 
-  <h3>🔥 GitHub Stats</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=idincern&show_icons=true&locale=en&theme=dark" alt="idincern stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idincern&show_icons=true&locale=en&layout=compact&theme=dark" alt="idincern languages" width="400" />
-      </td>
-    </tr>
-  </table>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=idincern&theme=dark" alt="idincern streak" />
 </div>
